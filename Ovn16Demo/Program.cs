@@ -10,7 +10,7 @@ namespace Ovn16Demo
 
         //Albin was also here! :)
 
-        //ALbin will be here!!
+        // Patrik was here too! 
 
     class Program
     {
